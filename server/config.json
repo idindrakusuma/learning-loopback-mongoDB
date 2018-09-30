@@ -19,5 +19,7 @@
     },
     "cors": false
   },
-  "paginator": 5
+  "paginator": {
+    "limit": 5
+  }
 }

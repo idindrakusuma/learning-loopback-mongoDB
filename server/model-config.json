@@ -41,5 +41,9 @@
   "Todos": {
     "dataSource": "db",
     "public": true
+  },
+  "Categories": {
+    "dataSource": "db",
+    "public": true
   }
 }

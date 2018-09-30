@@ -2,6 +2,6 @@
   "db": {
     "name": "db",
     "connector": "loopback-connector-mongodb",
-    "useNewUrlParser":"true"
+    "useNewUrlParser": "true"
   }
 }

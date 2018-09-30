@@ -8,11 +8,14 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
+    "start-watch": "nodemon .",
+    "db-migration": "node server/db/migration.js",
     "posttest": "npm run lint"
   },
   "dependencies": {
     "compression": "^1.0.3",
     "cors": "^2.5.2",
+    "dotenv": "^6.0.0",
     "helmet": "^3.10.0",
     "loopback": "^3.22.0",
     "loopback-boot": "^2.6.5",

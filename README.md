@@ -1,5 +1,12 @@
 # Loopback MongoDB
 
+## Covered Feature
+- CRUD
+- REST using ACL
+- Mongo Connector
+- Loopback Paginator
+- DB Migration
+
 ### Prepare
 - Setup your mongoDB on local machine
 - Clone this Repo

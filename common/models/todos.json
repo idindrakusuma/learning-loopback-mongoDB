@@ -20,6 +20,9 @@
       "default": false
     }
   },
+  "mixins": {
+    "Paginator": true
+  },
   "validations": [],
   "relations": {},
   "acls": [

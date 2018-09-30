@@ -9,6 +9,7 @@
     "mixins": [
       "loopback/common/mixins",
       "loopback/server/mixins",
+      "../node_modules/loopback-paginator/lib",
       "../common/mixins",
       "./mixins"
     ]
@@ -34,9 +35,6 @@
   "Role": {
     "dataSource": "db",
     "public": false
-  },
-  "Message": {
-    "dataSource": null
   },
   "Todos": {
     "dataSource": "db",
